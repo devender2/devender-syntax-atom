@@ -3,7 +3,7 @@
   "theme": "syntax",
   "version": "0.0.0",
   "description": "A bright playful theme designed to be easy on the eyes and highlight what is important",
-  "repository": "https://github.com/atom/devender-syntax",
+  "repository": "https://github.com/devender2/devender-syntax-atom",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
